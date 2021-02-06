@@ -28,6 +28,7 @@ print("reading simfiles...")
 intputdir = os.path.join(Path(__file__).parent, "input")
 simfiles = os.listdir(intputdir)
 chartsdir = os.path.join(Path(__file__).parent, "output")
+os.mkdir(chartsdir)
 
 # iterate through all simfiles
 progress_checker = 0
