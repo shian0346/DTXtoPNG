@@ -4,7 +4,7 @@
 This python program converts [DTXMania](https://ko.osdn.net/projects/dtxmania/) simfiles to image files. (*.dtx → *.png)
 
 ## Requirements
-* This code is tested with [Python 3.6.8](https://www.python.org/downloads/release/python-368/) and [Python Imaging Library: Pillow 8.1.0](https://pillow.readthedocs.io/)
+* This code is tested with [Python 3.6.8](https://www.python.org/downloads/release/python-368/) and uses [Python Imaging Library: Pillow 8.1.0](https://pillow.readthedocs.io/)
 
 ## How to Run
 1. Install all the requirements if needed
