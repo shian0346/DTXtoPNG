@@ -15,7 +15,8 @@ This python program converts [DTXMania](https://ko.osdn.net/projects/dtxmania/) 
 5. check the `output` folder for the converted images
 
 ## Notes
-* This program is tested mostly with official charts. Customs charts and incorrectly written charts might not be correctly converted. Please refer to the DTX file format specifications below for the correct formatting of DTX simfiles.
+* This program is tested mostly with official charts. Customs charts and incorrectly written charts might not be correctly converted.
+    * Please refer to the DTX file format specifications below for the correct formatting of DTX simfiles.
 * This program only takes ten channels as valid inputs:
 ```
  11 = HH (HiHatClose)
